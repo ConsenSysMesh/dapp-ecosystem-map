@@ -36,13 +36,16 @@ For now, create an issue to recommend a change, error, or addition to our databa
 ## Taxonomy
 Here is a high-level framework to capture core themes for blockchain-based project development:
 ![Blockchain Thematic Framework](https://github.com/ConsenSysLabs/dapp-ecosystem-map/blob/master/figures/use_case_fw.jpg)
-![Blockchain Project Framework](https://github.com/ConsenSysLabs/dapp-ecosystem-map/blob/master/figures/use_case_fw_2.jpg)
+
 Here is a more specific categorization:
+![Blockchain Project Framework](https://github.com/ConsenSysLabs/dapp-ecosystem-map/blob/master/figures/use_case_fw_2.jpg)
+
 
 Notes:
 * Themes are neither mutually exclusive or collectively exhaustive.
 * Trustless exchange, decentralization, state mutation, and tokenization span each theme.
 * Projects can be industry-specific or generally applicable.
+* Examples focus on Ethereum-based projects.
 
 ### Markets and Liquidity
 
@@ -52,20 +55,74 @@ In success, such projects will unlock global resource sharing, fractional asset 
 
 | Project      | Category     |
 |--------------|------------- |
-| GridPlus     | Fungible asset exchange |
-| Pangea   | Nonfungible asset exchange  |
-| Airswap     | Decentralized exchange (DEX)           |
+| GridPlus     | Fungible asset exchange - energy |
+| Pangea   | Nonfungible asset exchange - real estate |
+| Airswap     | Decentralized exchange (DEX)|
+| Virtue Poker     | Gambling|
+| CryptoKitties     | Gaming|
+| Rarebits     | Nonfungible asset exchange|
+| Origin Protocol     | Nonfungible asset exchange|
+| IPFS     | Nonfungible asset exchange - storage|
+| Paradex     | Decentralized exchange (DEX) |
+| Funfair     | Gambling |
+| SpankChain     | Entertainment (State channel payments) |
 
 ### Tracking and Authentication
 
+Projects which use blockchain as a single source of truth for asset ownership as well as provenance of physical and digital goods.
+
+
+| Project      | Category     |
+|--------------|------------- |
+| Viant     | Asset track and trace / provenance |
+| CryptoKitties     | Gaming (proof of ownership)           |
+| ShipChain | Supply chain tracking |
+
+_Note: CryptoKitties also falls into Markets and Liquidity. That's how clustering works._
+
 ### Self-Sovereign Identity
+
+Projects which allow individuals to selectively share personal information as well as the data they produce. Under such constructs, individuals are able to monetize their data directly.
+
+| Project      | Category     |
+|--------------|------------- |
+| uPort     | SSI Solution |
+| Status    | SSI Solution |
+| Brave    | Monetize Your Data |
 
 ### Automated Agreements
 
+Projects which allow for digitization and automation of business processes. Such processes often involve conditional payments and are multi-party transactions (thus benefiting from the trustless nature of blockchain applications.)
+
+| Project      | Category     |
+|--------------|------------- |
+| x     | x |
+
 ### Token-Incentivized Markets
+
+Projects which leverage token mechanics to solve coordination problems. Such projects typically incentivize work, create knowledge, and/or "gamify" human coordination.
+
+| Project      | Category     |
+|--------------|------------- |
+| x     | x |
 
 ### Governance and Voting
 
+Fairly self-explanatory. Blockchain provides data permanence, immutability, and auditability. Such features are convenience for voting. Blockchain-based voting systems enable blockchain-based governance models, including Decentralized Autonomous Organizations (or DAOs.)
+
+| Project      | Category     |
+|--------------|------------- |
+| x     | x |
+
 ### Shared Data Repos
 
+
+| Project      | Category     |
+|--------------|------------- |
+| x     | x |
+
 ### Uncensored Activity and Publications
+
+| Project      | Category     |
+|--------------|------------- |
+| Spankchain     | Entertainment |
