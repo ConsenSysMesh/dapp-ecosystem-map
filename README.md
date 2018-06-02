@@ -58,14 +58,19 @@ In success, such projects will unlock global resource sharing, fractional asset 
 | GridPlus     | Fungible asset exchange - energy |
 | Pangea   | Nonfungible asset exchange - real estate |
 | Airswap     | Decentralized exchange (DEX)|
+| Kyber Network     | Decentralized exchange (DEX)|
+| Paradex     | Decentralized exchange (DEX) |
+| Radar Relay     | Decentralized exchange (DEX) |
 | Virtue Poker     | Gambling|
 | CryptoKitties     | Gaming|
 | Rarebits     | Nonfungible asset exchange|
 | Origin Protocol     | Nonfungible asset exchange|
-| IPFS     | Nonfungible asset exchange - storage|
-| Paradex     | Decentralized exchange (DEX) |
 | Funfair     | Gambling |
 | SpankChain     | Entertainment (State channel payments) |
+| OmiseGo     | Ethereum-based payments (Plasma)|
+| Golem     | Decentralized compute resources |
+| IPFS     | Nonfungible asset exchange - storage|
+
 
 ### Tracking and Authentication
 
@@ -77,6 +82,9 @@ Projects which use blockchain as a single source of truth for asset ownership as
 | Viant     | Asset track and trace / provenance |
 | CryptoKitties     | Gaming (proof of ownership)           |
 | ShipChain | Supply chain tracking |
+| Ujo Music | Music digital rights tracking |
+| R.A.R.E. Arts | Digital art ownership and verifiability|
+| POEX | Document verification|
 
 _Note: CryptoKitties also falls into Markets and Liquidity. That's how clustering works._
 
@@ -88,7 +96,10 @@ Projects which allow individuals to selectively share personal information as we
 |--------------|------------- |
 | uPort     | SSI Solution |
 | Status    | SSI Solution |
-| Brave    | Monetize Your Data |
+| Civic  | SSI Solution |
+| Dominode  | SSI Solution |
+| Basic Attention Token    | Monetize Your Data |
+
 
 ### Automated Agreements
 
@@ -96,7 +107,10 @@ Projects which allow for digitization and automation of business processes. Such
 
 | Project      | Category     |
 |--------------|------------- |
-| x     | x |
+| OpenLaw    | Smart legal agreements for conditional value transfer|
+| Request Network    | Invoicing on Ethereum |
+| BlockFi    | Lending |
+| Lendroid    | Non-custodial margin trading |
 
 ### Token-Incentivized Markets
 
@@ -104,7 +118,14 @@ Projects which leverage token mechanics to solve coordination problems. Such pro
 
 | Project      | Category     |
 |--------------|------------- |
-| x     | x |
+| MakerDAO     | Hiveminded research for stablecoin design |
+| Gnosis     | Prediction market |
+| Augur     | Prediction market |
+| Kauri     | Knowledge network |
+| Gitcoin and Bounties Network  | Work bounties |
+| Frontier  | Token research platform |
+| Civil  | Incentivization of fair and accurate reporting |
+| TCR  | Token curated registry of non-fraudulent websites for advertising |
 
 ### Governance and Voting
 
@@ -112,17 +133,26 @@ Fairly self-explanatory. Blockchain provides data permanence, immutability, and 
 
 | Project      | Category     |
 |--------------|------------- |
-| x     | x |
+| GovernX     | Decentralized governance |
+| Aragon     | DAO |
+| district0x     | Decentralized communities |
 
 ### Shared Data Repos
 
+As an open database, blockchain provides a well designed system for connecting disparate data pools. Coupled with micropayments, blockchain-based data markets can enable IoT device interoperability, machine-to-machine economies, and machine learning data markets.
 
 | Project      | Category     |
 |--------------|------------- |
-| x     | x |
+| TruSet       |Capital markets reference data  |
+| Winding Tree |Decentralized repo for travel industry data  |
 
 ### Uncensored Activity and Publications
 
+Blockchains are designed to minimize censorability and tamperability. Thus, blockchains enable truly open networks for publication, communication, and value exchange.
+
 | Project      | Category     |
 |--------------|------------- |
-| Spankchain     | Entertainment |
+| Decentraland | Uncensorable digital world|
+| Leeroy | Decentralized social network|
+| Leeroy | Decentralized social network|
+| OpenBazaar | P2P commerce platform|
