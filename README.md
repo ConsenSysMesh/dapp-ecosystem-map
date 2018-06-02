@@ -136,6 +136,7 @@ Fairly self-explanatory. Blockchain provides data permanence, immutability, and 
 | GovernX     | Decentralized governance |
 | Aragon     | DAO |
 | district0x     | Decentralized communities |
+| Voatz     | Blockchain-based voting platform |
 
 ### Shared Data Repos
 
@@ -145,6 +146,11 @@ As an open database, blockchain provides a well designed system for connecting d
 |--------------|------------- |
 | TruSet       |Capital markets reference data  |
 | Winding Tree |Decentralized repo for travel industry data  |
+| Mediachain | Media datasets  |
+| Tierion |Blockchain-based data anchoring  |
+| Streamr |Data marketplace  |
+| Dbrain | AI data marketplace  |
+| Augmate | IoT  |
 
 ### Uncensored Activity and Publications
 
@@ -152,6 +158,7 @@ Blockchains are designed to minimize censorability and tamperability. Thus, bloc
 
 | Project      | Category     |
 |--------------|------------- |
+| Orchid Labs | Open internet platform|
 | Decentraland | Uncensorable digital world|
 | Leeroy | Decentralized social network|
 | Leeroy | Decentralized social network|
