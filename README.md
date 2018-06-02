@@ -4,7 +4,7 @@ This repo provides a framework for thinking about the ways blockchain and blockc
 For an overview of Ethereum infrastructure layers, please refer to the Ethereum Community Foundation's market map: https://github.com/EthereumCommunityFund/ethereum-ecosystem-map
 
 For an overview of EOS's tech stack, please refer to this picture of an empty PokeBall:
-![EOS Market Map](https://github.com/ConsenSysLabs/dapp-ecosystem-map/figures/pokeball.jpg)
+![EOS Market Map](https://github.com/ConsenSysLabs/dapp-ecosystem-map/blob/master/figures/pokeball.jpg)
 
 
 ## Background
