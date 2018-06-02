@@ -3,7 +3,9 @@ This repo provides a framework for thinking about the ways blockchain and blockc
 
 For an overview of Ethereum infrastructure layers, please refer to the Ethereum Community Foundation's market map: https://github.com/EthereumCommunityFund/ethereum-ecosystem-map
 
-(For an overview of EOS's tech stack, please refer to this picture of an empty PokeBall: https://static.turbosquid.com/Preview/2014/07/03__23_36_52/Pokeball_Open.jpgb5188ef7-506a-48bc-82ec-7db4da5c975fLarge.jpg)
+For an overview of EOS's tech stack, please refer to this picture of an empty PokeBall:
+![EOS Market Map](https://github.com/ConsenSysLabs/dapp-ecosystem-map/figures/pokeball.jpg)
+
 
 ## Background
 For both blockchain newcomers and OGs, it can be difficult to understand how projects are using blockchain to solve problems for end users. This document provides a framework for thinking through the various use cases of blockchain and blockchain-based technologies.
