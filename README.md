@@ -143,6 +143,7 @@ _Note: CryptoKitties also falls into Markets and Liquidity. That's how clusterin
 | Aragon     | DAO |
 | district0x     | Decentralized communities |
 | Voatz     | Blockchain-based voting platform |
+| Colony     | Platform for DAO building |
 
 ### Data Markets
 
