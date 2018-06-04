@@ -80,12 +80,13 @@ Notes:
 
 | Project      | Category     |
 |--------------|------------- |
+| R.A.R.E. Arts | Digital art ownership and verifiability|
 | Viant     | Asset track and trace / provenance - geared towards supply chain use cases|
 | ShipChain | Supply chain tracking |
 | CryptoKitties     | Gaming (proof of ownership)           |
-| R.A.R.E. Arts | Digital art ownership and verifiability|
 | Ujo Music | Music digital rights tracking |
 | POEX | Document verification|
+| Codex | Digital asset registry|
 
 _Note: CryptoKitties also falls into Markets and Liquidity. That's how clustering works._
 
@@ -114,6 +115,8 @@ _Note: CryptoKitties also falls into Markets and Liquidity. That's how clusterin
 | Request Network    | Invoicing on Ethereum |
 | BlockFi    | Lending |
 | Lendroid    | Non-custodial margin trading |
+| Trustology    | Smart custody for crypto assets |
+| SALT    | Blockchain-Backed Loans |
 
 ### Token-Incentivized Markets
 
@@ -172,3 +175,4 @@ _Note: CryptoKitties also falls into Markets and Liquidity. That's how clusterin
 | Decentraland | Uncensorable digital world|
 | Leeroy | Decentralized social network|
 | OpenBazaar | P2P commerce platform|
+| Akasha | Decentralized social network|
